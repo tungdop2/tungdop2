@@ -8,9 +8,9 @@
     <p align="left">
     <a href="https://github.com/tungdop2/landmark_detection_cat_deco" target="blank"><img align="center" src="https://github.com/tungdop2/landmark_detection_cat_deco/raw/main/demo/output.gif" alt="cat" height="200" width="200" /></a>
     </p>
-  - **[TinyYOLOv2](https://github.com/tungdop2/tinyYOLOv2_tft)**
+  - **[YOLO](https://github.com/tungdop2/YOLO)**
     <p align="left">
-    <a href="https://github.com/tungdop2/tinyYOLOv2_tft" target="blank"><img align="center" src="https://github.com/tungdop2/tinyYOLOv2_tft/raw/main/demo/1.jpg" alt="cat" height="300" width="400" /></a>
+    <a href="https://github.com/tungdop2/YOLO" target="blank"><img align="center" src="https://github.com/tungdop2/YOLO/blob/main/demo/demo.gif" alt="car" height="300" width="400" /></a>
     </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
