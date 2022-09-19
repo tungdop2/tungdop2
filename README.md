@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dương Quang Tùng</h1>
-<h2 align="center"> I'm looking for an AI or Computer Vision intership position.</h2>
+<h2 align="center"> I'm currently working as AI Engineer intern at <a href="https://pixta.vn/">Pixta VietNam</a></h2>
 
-- 🔭 I’m currently **a year 3 student at the VNU University of Engineering and Technology.**
+- 🔭 I’m currently **a year 4 student at the VNU University of Engineering and Technology.**
 - 🌱 I’m currently learning **everthing i could.**
 - 📚 Some of my little projects are:
   - **[Cat Landmark Detection](https://github.com/tungdop2/landmark_detection_cat_deco)**
