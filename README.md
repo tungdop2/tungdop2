@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dương Quang Tùng</h1>
-<h2 align="center"> I'm currently working as AI Engineer intern at <a href="https://pixta.vn/">Pixta VietNam</a></h2>
+<h2 align="center"> I'm currently working as AI Engineer at <a href="https://www.facebook.com/zenai.vn">ZenAI VietNam</a></h2>
 
-- 🔭 I’m currently **a year 4 student at the VNU University of Engineering and Technology.**
 - 🌱 I’m currently learning **everthing i could.**
-- 📚 Some of my little projects are:
-  - **[Cat Landmark Detection](https://github.com/tungdop2/landmark_detection_cat_deco)**
-    <p align="left">
-    <a href="https://github.com/tungdop2/landmark_detection_cat_deco" target="blank"><img align="center" src="https://github.com/tungdop2/landmark_detection_cat_deco/raw/main/demo/output.gif" alt="cat" height="200" width="200" /></a>
-    </p>
-  - **[YOLO](https://github.com/tungdop2/YOLO)**
-    <p align="left">
-    <a href="https://github.com/tungdop2/YOLO" target="blank"><img align="center" src="https://github.com/tungdop2/YOLO/blob/main/demo/demo.gif" alt="car" height="300" width="400" /></a>
-    </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tùng-dương-quang-8bb883225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tùng-dương-quang-8bb883225" height="30" width="40" /></a>
